@@ -34,7 +34,8 @@
 ## Reports
 
 - **Midterm**:  [캡스톤디자인 중간보고서.pdf](https://github.com/user-attachments/files/15894499/default.pdf)
-- **Final**： [캡스톤디자인결과보고서.pdf](https://github.com/user-attachments/files/15894502/default.pdf)
+- **Final**： [캡스톤디자인결과보고서.pdf](https://github.com/user-attachments/files/15894502/default.pdf)，[소융캡디-포스터(지상게임팀).pptx](https://github.com/user-attachments/files/15895512/-.pptx)
+
 
 
 
